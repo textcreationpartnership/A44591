@@ -1,0 +1,655 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poor mans misery, or, Poverty attendeth vain company with a speedy call to repentance from their ways. Wherein you may behold who they are that are reckoned in the ranck of vain persons, and also the great danger they live in, whilst they live in vanity, and follow the ways of sin and wickedness. Very necessary for all to read and consider of the danger thereof in this day, wherein so many take pleasure in sin, and wicked company. By Roger Hough a lover of sobriety.</title>
+            <author>Hough, Roger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44591</idno>
+            <idno type="STC">Wing H2913</idno>
+            <idno type="STC">ESTC R215374</idno>
+            <idno type="EEBO-CITATION">99827269</idno>
+            <idno type="PROQUEST">99827269</idno>
+            <idno type="VID">31686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31686)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1890:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poor mans misery, or, Poverty attendeth vain company with a speedy call to repentance from their ways. Wherein you may behold who they are that are reckoned in the ranck of vain persons, and also the great danger they live in, whilst they live in vanity, and follow the ways of sin and wickedness. Very necessary for all to read and consider of the danger thereof in this day, wherein so many take pleasure in sin, and wicked company. By Roger Hough a lover of sobriety.</title>
+                  <author>Hough, Roger.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Passenger at the sign of the Three bibles on the middle of London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pride and vanity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <!-- text on images 15-21 of this VID have been removed. These pages appear to contain an unrelated 'bound-with' fragment,
+identity unknown. Keyed text of these pages saved temporarily
+as 'unknown.sgm' lproux 2009-06-03 -->
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31686:1" rendition="simple:additions"/>
+            <p>The Poor Mans Miſery, OR Poverty Attendeth Vain COMPANY, WITH A Speedy Call to Repentance from their ways.</p>
+            <p>Wherein you may behold who they are that are reckoned in the ranck of vain perſons, and alſo the great danger they live in, whilſt they live in Vanity, and follow the ways of ſin and wickedneſs, Very neceſſa<g ref="char:EOLhyphen"/>ry for all to Read and conſider of the danger thereof in this day, wherein ſo many take pleaſure in ſin, and wicked company.</p>
+            <p>By <hi>Roger Hough</hi> a lover of Sobriety.</p>
+            <q>
+               <bibl>
+                  <hi>Pſalm</hi> 119.63.</bibl>
+               <p>I am a Companion of all thoſe that fear thee and keep thy precepts.</p>
+            </q>
+            <q>
+               <bibl>2 <hi>Theſſal.</hi> 3.14.</bibl>
+               <p>If any man obey not our word by this Epiſtle, note that man, and have no company with him, that he may be aſhamed.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Paſſinger</hi> at the ſign of the Three bibles on the middle of London-Bridge. 1670.</p>
+            <pb facs="tcp:31686:2"/>
+            <pb facs="tcp:31686:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:31686:3"/>
+            <head>To the Reader.</head>
+            <l>
+               <seg rend="decorInit">C</seg>Ourtious Friend, in this my labour ſmall,</l>
+            <l>Thou mayſt behold a Duty great withal:</l>
+            <l>Read and Conſider, and get good hereby,</l>
+            <l>If thou art vain, to God for mercy cry.</l>
+            <l>For ſure vain company will ruine bring,</l>
+            <l>For vanity doth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with it a ſting;</l>
+            <l>The slugard may unto the Ant repair,</l>
+            <l>Becauſe he take no early harveſt care</l>
+            <l>Vain idle company then flee thou from,</l>
+            <l>And in the place of wickedneſs, by no means come.</l>
+            <l>If that thou profit by this labour ſmall</l>
+            <l>Give God the glory for his graces all</l>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:31686:3"/>
+            <epigraph>
+               <q>
+                  <bibl>Proverbs 28.19.</bibl>
+                  <p>He that followeth vain perſons, ſhall have poverty enough.</p>
+               </q>
+            </epigraph>
+            <p>THe wiſe man by the Morral vertue of the laborious man, holds forth the bad conſequences that do attend the contrary: He that tilleth his land ſhall have plenty of herad, but he that fol<g ref="char:EOLhyphen"/>loweth after vain perſons ſhall have pover<g ref="char:EOLhyphen"/>ty enough. The ſerious conſideration of the folly and madneſs of wicked men at this day, if matter of great lamentation to all thoſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t truly fear God, to ſoe men through their own <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olly and ignorance <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o run their poor ſouls upon the h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zard of eternal de<g ref="char:EOLhyphen"/>ſtruction, by their aſſociateing themſelves with vain perſons: My dearly beloved friends, I deſire you may ſeriouſly conſider it, and lay it to heart: what profit can you have in waſting, your precious time, and letting ſlip over the days of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our youth, and diſhonouring your Heavenly Father, by your unequal walkings: herein <hi>Solomon</hi> the Son of <hi>David</hi> King of <hi>Iſrael,</hi> that was the wiſeſt man that ever was before him, or that ever ſhould come after him, <hi>1 Kings
+<pb facs="tcp:31686:4"/>3.12.</hi> ſaw the evil of this, and in this Text if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, he makes it known unto us; <hi>He that tilleth his land ſhall have plenty of bread, but he that followeth after vain per<g ref="char:EOLhyphen"/>ſons ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll have poverty enough:</hi> in which w<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man learn this neceſſary reaſon.</p>
+            <p>
+               <hi>That poverty attendeth vain company.</hi>
+            </p>
+            <p>When perſons leave off their honeſt and lawful caſting, to follow after vain and idle company, this their folly will bring them un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o poverty <hi>Prov. 12.11. He that till<g ref="char:EOLhyphen"/>eth his land ſhall be ſati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied with bread, but he that followeth vain perſons is void of un<g ref="char:EOLhyphen"/>derſtanding.</hi> Sirs, as you love the lives of your <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cious and immortal ſouls, look to your Companions, vain Company will be the ruine and bane of your immortal ſouls without deep repentance, look but to that example or the prodigal, <hi>Luk. 15. 16.</hi> who when his ſubſtance was gone, and he left in a diſconſolate condition, would have béen content to have fed upon the Husks that the Swine did eat, and no man gave them unto him; then this is the condition you are brought unto by aſſociateing your ſelves with evil Companions, If any que<g ref="char:EOLhyphen"/>ſtion who they are that are vain perſons, who are to be conſidered under this notion; I Anſwer in the General they are ſuch per<g ref="char:EOLhyphen"/>ſons,
+<pb facs="tcp:31686:4"/>as daily delight in vanity, then are ſuch perſons as live in wickedneſs: Vani<g ref="char:EOLhyphen"/>ty is unprofitableneſs either to the ſoul, or to the body, but more perticularly there is a thréefold vanity, and a thréefold poverty, that attends that threefold vanity.</p>
+            <p>Firſt, There is a vanity of common known Sinners.</p>
+            <p>Secondly, There is a vanity in the ſelf Righteous Moral, Worldly man, the civilleſt men of the world; And,</p>
+            <p>Thirdly, There is a vanity in unſound Profeſſors: now the poverty that attends theſe thrée Ranks of Vanity are:</p>
+            <p>Firſt, Temporal want to the outward eſtate of Man, attends your communion with known ſinners.</p>
+            <p>Secondly, Spiritual blindneſs, and ſelf-confidence, without a ſure foundation, or a real reliance upon Chriſt, that attends the ſecond Ranck of Vain perſons; And,</p>
+            <p>Thirdly, Eternal miſery in Hell for ever, beſides the ſhame and diſgrace they meet with on this ſide the grave, amongſt thoſe that fear God, when their Hipocriſie is diſcovered, and the filthineſs of their ſhame is made known: This attends the third Rank of vain perſons.</p>
+            <p>For the firſt of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, who are theſe com<g ref="char:EOLhyphen"/>mon
+<pb facs="tcp:31686:5"/>known ſinners, that are to be avoided; they are perſons that live in ſin and ſinful courſes, idle-headed perſons, that to fulfil their own luſts, and nouriſh vice and wick<g ref="char:EOLhyphen"/>edneſſes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un on headlong to their own de<g ref="char:EOLhyphen"/>ft action: from ſuch therefore turn aſide, every known ſin that any man lives in, he tranſgreſſeth againſt God in his ſin, and herein doth his vanity appear, every wicked man's a vain perſon, wicked ſin<g ref="char:EOLhyphen"/>ners are vain perſons.</p>
+            <p>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrs, Idle Diſcourſers, Common S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>earers, Tale-bearers, Strife mongers. D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-ſectors, Flatterers, Deceitful Talkers, Drunkards, Whore m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nmers, Sabbath-breaker<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Contemners of Gods People D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers of his Miniſters, and D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nces, Grinders of the faces of the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or Proud Perſons proud in Words, proud In A <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd F<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ions of the times, com<g ref="char:EOLhyphen"/>mon G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Stage Players, Sorce<g ref="char:EOLhyphen"/>rers, Jugglers Murderers, Chieves, Char<g ref="char:EOLhyphen"/>mers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uchau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers Errortioners Vſurers, V<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rpers of other ure<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s powers. Buſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-Lod<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es in other mens matters, without a law ul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>call thereunto, Quari<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ous Cavi<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers of Iumot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt perſons by In<g ref="char:EOLhyphen"/>juſtice, D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpiſers, Markers, S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orners, and Perſecu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs of Gods People, Imvezellou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s,
+<pb facs="tcp:31686:5"/>Waſters and Deſtroyers of their own and other mens ſubſtances, whatſoever known ſin any man lives in and delights in, that ſin makes him a vain perſon, therefore to follow after ſuch ſins, or ſuch ſinners, will bring poverty; <hi>For poverty attendeth vain company.</hi>
+            </p>
+            <p>Now ſirs conſider before we paſs to the ſecond Rank. what profit can you get by your accompanying with any of theſe ſin<g ref="char:EOLhyphen"/>ners? do you not learn with the Lyer, to paſs a way your time for idle ſtories, and with the prophane, to be prophane? do you not learn with the deceiver, to deceive? and what can you get by flatterers and de<g ref="char:EOLhyphen"/>ceitful talkers, and ſuch like? <hi>David</hi> was of another mind, when he ſaid, <hi>Pſa. 101.4, 5, 6, 7. A froward heart ſhall depart from me, I will not know a wicked perſon; whoſo privily ſlandereth his neighbour, him will I cut off; him that hath a high look and a proud heart will not I ſuffer; mine eyes ſhall be upon the faithful of the Land, that they may dwell with me, he that walketh in a perfect way, he ſhall ſerve me: he that worketh deceit ſhall not dwell in my houſe, and he that telleth lies ſhall not tarry in my ſight:</hi> Well then, let this teach you ſirs to put forth of your Society and Company,
+<pb facs="tcp:31686:6"/>thoſe that good <hi>David</hi> will put forth of his ſight: But,</p>
+            <p>Secondly, There is a Vanity in the ſelf Righteous, Moral, worldly man, or the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vileſt men of the world.</p>
+            <p>There is vanity in them though there is in them to the outward ſhew, a Civil car<g ref="char:EOLhyphen"/>riage and a fair ſhow of uprightneſs, yet where there is not a true zeal for God, and a relyance upon Chriſts merrits for ſalva<g ref="char:EOLhyphen"/>tion, they are yet in the dark paths of ig<g ref="char:EOLhyphen"/>norance, notwithſtanding this their gilded carriage in the world, the young man in the Goſpel, he had kept all the Comman<g ref="char:EOLhyphen"/>dements from his youth, <hi>Mat. 19.20.</hi> here was a Moral man, he had done his out<g ref="char:EOLhyphen"/>ward duty towards God and towards his Neighbour, and thereupon he might be reputed that he had done no man wrong, he was therefore as touching the Law blameleſs, yea, that which was yet more, he came to Chriſt for Counſel, he ſuppli<g ref="char:EOLhyphen"/>cated for eternal life in the <hi>16. verſe</hi> at his very firſt entrance, and when Ieſus had re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eated the commandements of the Law to him, all theſe have I done, <hi>verſe 20, what lack l yet,</hi> he is frill Inquiring after heaven, but comes not to the price thereof, but when he muſt part with all his ſubſtance,
+<pb facs="tcp:31686:6"/>he would kéep that, <hi>And ſo he went his way ſorrowing,</hi> that one thing needful he could not attain unto, becauſe he could not part with that one thing burdenſom; for the text ſaith, he had great poſſeſſions, and they were ſuch a burden unto him that he went away ſorrowing, if God contend with ſuch men, they are not able to ſtand before him, the Civil Morral men of the world, though they carry themſelves uprightly to the out<g ref="char:EOLhyphen"/>ward eye of man, yet they are too low for heaven, he that is too high for grace, is too low for glory, and herein their poverty ap<g ref="char:EOLhyphen"/>pears, as being deprived of the beſt things which are durable for a few fading world<g ref="char:EOLhyphen"/>ly endowments that leaves them when death comes to arreſt them: <hi>Nichodemus</hi> could come &amp; reaſon with Chriſt, that was a great Ruler, about Regeneration: yet underſtands not the words of Chriſt, though he was a Maſter in Iſrael, <hi>John 3.10.</hi> Alſo <hi>Gamahel</hi> a Doctor of the Law, could ſtand up in the Councel, to defend the lives of the Apoſtles, <hi>Acts 5.34,</hi> to <hi>40.</hi> but beleived not himſelf. Now a ſpiritual blindneſs and ſelf confidence, without a ſure foundation or r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al reliance upon Chriſt at<g ref="char:EOLhyphen"/>tends this the Morral mans vanity. Indéed by the company of theſe worldlings, you
+<pb facs="tcp:31686:7"/>come to no outward ſtanders o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſgraces, as you may do by the firſt rank. But you get nothing by their company, but learn to ſee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le your ſelves and take root in their ſelf-confidences; though you waſte not your outward ſubſtances hereby, yet you looſe your precious time, for that which prof<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>teth not, and ſettle your ſelves upon falſe reſts. As firſt, upon a civil life and chaſte carriage, &amp; think by that means to mer<g ref="char:EOLhyphen"/>rit heaven. Secondly, by ſelf righteouſneſs they will walk uprightly, and uſe what they haue of the world to their beſt advan<g ref="char:EOLhyphen"/>tage, and not offend: Is it becauſe they will deal uprightly in all outward appea<g ref="char:EOLhyphen"/>rances, and think thereby to Merrit hea<g ref="char:EOLhyphen"/>ven. Thirldly, Some others will be very charitable to the poor, and freely impart what the Lord beſtowes upon them, think<g ref="char:EOLhyphen"/>ing thereby to attain eternal life. Fourth<g ref="char:EOLhyphen"/>ly, Others there are that will come néerer to the mark of profeſhion, and diligently at<g ref="char:EOLhyphen"/>tend the Ordinances of God in publi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue, and go daily every Lords day to hear the Word preached, &amp; think thereby to obtain heaven. Fifthly, Others will do their duties incombent upon them by the Word of God, they will read and pray in their families, and maintain family Duties, and think
+<pb facs="tcp:31686:7"/>thereby to inherit the Kingdom of Heaven. Nay, ſixthly and laſtly, there are ſome per<g ref="char:EOLhyphen"/>ſons will do all theſe duties, and repeat Sermons in their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amthes and declare to others what external gifts they have re<g ref="char:EOLhyphen"/>ceived front God, and diſcourſe much of Heaven and Eternity in a high manner, and yet for all this fall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of eternal happineſs, becauſe they reſt themſelves up<g ref="char:EOLhyphen"/>on theſe ſlaves, on the Ladder of Eternity. My beloved friends, theſe things you muſt do, if ever you intend to be ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is not any of theſe to be reſted on, the way to heaven is by faith in Ieſus Chriſt, for faith without works is a dead faith, you muſt have works to accompany your faith, <hi>James 2.17. Even ſo faith being without works, is dead being, alone:</hi> But,</p>
+            <p>Thirdly, There is a vanity in unſound profeſſors, and falſe worſhipers of God; all ſuch as worſhip God in a falſe way contra<g ref="char:EOLhyphen"/>ry to the rule of the holy Scriptures, theſe are vain perſons, ſuch are all Papiſts, Idolatrous, Will-worſhippers of God, and ſuch as worſhip God by a rule of mens In<g ref="char:EOLhyphen"/>ventions, and not according to his Will, all unſound Teachers, that ſpeak without the life, féeling, and ſcence of the holy Spi<g ref="char:EOLhyphen"/>rit of God, ſtrengthened and Authorized by
+<pb facs="tcp:31686:8"/>the rule of the Scriptures, to guide and direct them in the truth, and to be the touchſtone of tryal, to ſtrengthen, uphold, and maintain them, and herein all ſuch ſciſmacical and heritical opinianiſts, ſhow forth nothing but vanity; ſuch Craft, mongers, and ſoul-deceivers win God take in their own craſtiueſs, <hi>John 5.13. Be<g ref="char:EOLhyphen"/>cauſe ſuch when they know God they glo<g ref="char:EOLhyphen"/>rifie him not as God, neither are they thank<g ref="char:EOLhyphen"/>ful, but become vain in their imaginations: their fooliſh hearts being darkened, pro<g ref="char:EOLhyphen"/>feſſing themſelves wiſe they became fools, Rom. 2.21, 22.</hi> and therefore all ſuch as follow them in their dark paths, though it may be in the way of a profeſſion, ſhall have poverty enough.</p>
+            <p>For where the ſound bread of life is de<g ref="char:EOLhyphen"/>jected, the ſoul for want thereof may be in<g ref="char:EOLhyphen"/>fected, now the poverty that attends theſe, is eternal miſery in hell for ever (without a hearty and deep repentance) beſides the ſhame and diſgrace they méet with on this ſide the grave, amongſt thoſe that fear God, when their hypocriſie is diſcovered, and the filthineſs of their ſhame is made known.</p>
+            <p>As firſt the Papiſts their cruelty againſt
+<pb facs="tcp:31686:8"/>the truth, their idolatrous worſhipping of Saints and Angels, unneceſſary conſecra<g ref="char:EOLhyphen"/>tions and all their idolatrous ceremonies, where with they delude the ſimple, and ſtéep them in ignorance and blindneſs, which impoſtrous Religion path deluded many poór ſouls: And then</p>
+            <p>Secondly, All ſuch as contemn and diſ<g ref="char:EOLhyphen"/>piſe the Ordinances of God, in a way of profeſſion by corrupt opinions, ſpringing up amongſt them, as your Socinians and Frée-willers, that would de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſure and pub<g ref="char:EOLhyphen"/>liſh Frée-will, and a general Redemption to the world, with many other opinianiſts, that I ſhall not here ſtand to name becauſe I am ſcanted of Room in this ſmall Trea<g ref="char:EOLhyphen"/>tiſe, and therefore muſt haſten to draw to a concluſion: Therefore take héed my be<g ref="char:EOLhyphen"/>loved that you grow not wilfully ignorant, that this ſpiritual and eternal poverty do not overtake you: Sirs, you here ſée the evil conſequences that attends vain per<g ref="char:EOLhyphen"/>ſons: that is poverty Temporal, Spiri<g ref="char:EOLhyphen"/>tual, and Eternal.</p>
+            <p>Now there is ſame reaſons-why it is that poverty attends vain perſons: And they are theſe.</p>
+            <pb facs="tcp:31686:9"/>
+            <p>Firſt, Becauſe vanity is thee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked with poverty, look upon the outward frame of wickneſs, and you will find poverty ever attending vanity, <hi>Pſalm 62.9. Surely men of low degree are vanity, and men of high degree are as a lye to be laid in the ballance they are altogether lighter t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en vanity,</hi> Now I do not ſay th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very poor man in the world is a vain perſon: poverty is ſervant to vanity, but vanity may not be a ſervant to poverty: we read of poor <hi>Job,</hi> but not of vain <hi>Job,</hi> his poverty was not vanity, nor poor <hi>Lazarus</hi> was not vain, <hi>Lazarus</hi> vanity, would be no ſervant to poverty, neither to <hi>Job</hi> nor to <hi>Lazarus,</hi> but yet for all this, there is a poverty that attends vanity, either Temporal or Spiritual, if not Tem<g ref="char:EOLhyphen"/>poral, yet for the moſt part Spiritual or E<g ref="char:EOLhyphen"/>ternal; <hi>Dives</hi> had not Temporal poverty, but when he was in hell, he had ſo much poverty as ſatisfied for his cruel covetouſ<g ref="char:EOLhyphen"/>neſs, for whereas before on earth he would not give one crumb, in hell he muſt not have one drop: ſurely then ſirs, here was poverty enough, ſo much poverty, as to make him eternally miſerable.</p>
+            <p>Secondly, Poverty attends vain perſons, becauſe of the vain glory that is in them, vain perſons take glory in their vanity,
+<pb facs="tcp:31686:9"/>like unto the Church of <hi>Laodicea, Rev. 3.19.</hi> That ſaid ſhe was rich and encrea<g ref="char:EOLhyphen"/>ſed in goods, and did not know her poverty, Now that ſhe was, retched and miſerable, and poor, and blind, and naked.</p>
+            <p>Thirdly, Poverty attends vain perſons, becauſe of that ignorance that is in vain company, there is a palpable ignorance in vain perſons, <hi>Epheſ. 4.17, 18. This I ſay therefore, and teſtifie in the Lord, that ye henceforth walk not as other Gentiles, walk in the vanity of their mind; Having their underſtanding darkened through the igno<g ref="char:EOLhyphen"/>rance that is in them, becauſe of the blind<g ref="char:EOLhyphen"/>neſs of their heart.</hi> Surely <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, where there is ignorance, there is blindneſs and po<g ref="char:EOLhyphen"/>verty.</p>
+            <p>Fourthly, <hi>Poverty attends vain company,</hi> becauſe of their evil Councel, vain perſons are vain counſellours, this you may ſée plainly in <hi>Roboam</hi> King of <hi>Iſrael,</hi> when he forſook the Councel of the A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cients that ſtood before <hi>Solomon</hi> his Father, and took Councel at his Companions, that we cal<g ref="char:EOLhyphen"/>led young men that were brought up with him, <hi>1 King. 12.8.</hi> then the judgement came upon him, and all the Tribes were taken from him, to be governed by <hi>Jerobo<g ref="char:EOLhyphen"/>am,</hi> ſave only the Tribe of <hi>Judah,</hi> which he
+<pb facs="tcp:31686:10"/>and his Poſterity raigned over: So you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Beloved, that there is reaſon why pove<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ever attends vain company, becauſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>verty is yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked to vanity: poverty is ſéen <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the vain glory of vain perſons; there is a palpable ignorance in vain company, and becauſe of the evil of the bad councel that vain perſons are apt to giue to thoſe that attend them, and company with them: I might give ſeveral other reaſons, as grounds to confirm this truth, why po<g ref="char:EOLhyphen"/>verty attends vain company, as the unpro<g ref="char:EOLhyphen"/>fitableneſſe of vain company, the diſcredit that you ſhall have by following of them: the evil of their ways, the loſſe of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our pre<g ref="char:EOLhyphen"/>cious time with ſeveral other grounds that for brevity ſake I omit at this time.</p>
+            <p>But now by way of Inference my Be<g ref="char:EOLhyphen"/>loved (if poverty attend vain company) In the firſt place, this lets us ſée the great un<g ref="char:EOLhyphen"/>profitableneſſe that is in vain company, as for the firſt r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nk of vain perſons before ſpoken of, expertence may teach you the proof hereof, how many have we ſéen in <hi>England,</hi> by waſting their precious time (and ſp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g thereof) become temporally poor, by following after vain jeſters, and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oriors, and by del<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing in their lies,
+<pb facs="tcp:31686:10"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>éen given up to ſtrong deluſions, to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> before then will i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Theſſ. 2.11.</hi> and have not only <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alled <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> outward <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtates, but are by this ine<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns brought into the ſtate of e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<g ref="char:EOLhyphen"/>nal miſery, without ſpéedy repentance, for which end they were giuen up to the ſtrong deluſions, <hi>verſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12.</hi> that they all might be damned who believe not the truth, but had pleaſure in unrighteouſneſſe. Again, how many perſons have we ſée by experience amongſt, us; that have been poſſeſſed of good eſtates, in this Nation, I think I may ſay without fencible error, that almoſt every Wila<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, Town, throughout <hi>England,</hi> can exſperience it, as many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> waſted all their outward eſtate by following after vain drunkards and whoremongers and common gameing and gameſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, and ſuch like Company, which companying with them, hath brought them into the depth of pover<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, ſo that then have thereby conſu<g ref="char:EOLhyphen"/>med their outward <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtates, and brought themſelves to beggery, and thrown them<g ref="char:EOLhyphen"/>ſelves, down under poverty temporally, wanting neceſſaring for the outward man, but it were well it this w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rit, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this is lu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the ſmalleſt l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>the by, they are in w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of all things that ſhould he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, they want ſpiritual
+<pb facs="tcp:31686:11"/>ſtrength to ſtand, they want ſpiritual power to pray, they want ſpiritual relief for the ſoul, for in ſuch company they never hear of, or ſee, or fóel any good, or comfort for the ſouls refreſhing, and is not this pover<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p enough think you, Nay, that which is more, this beget<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your eternal milery both of body and ſoul, at the day of judgment, when we ſhall all appear before the judge<g ref="char:EOLhyphen"/>ment ſeat of the Almighty God, there c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ive our ſentence of ſalvation or dam<g ref="char:EOLhyphen"/>nation, if then you be put on the left hand, with this ſentence, <hi>Go you curſed, Mat. 25.41.</hi> Is not this poverty enough think you to be deprived of beaven, and thrown into eternal miſery <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nay you ſhall find many that have made profeſſion of Chriſt. many that have received the Miniſtry, and teachings of Chriſt, to the outward ears, that have done duties, and ſought after Chriſt, to fall ſhort of heaven, and ſurely this you may ſée, <hi>Mat. 7.22, 23. Many will ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to me in that day, have we not prophe<g ref="char:EOLhyphen"/>ſied in thy name, and in thy name have caſt out diveſs, and in thy name have done won<g ref="char:EOLhyphen"/>derful words;</hi> Sirs you ſée here are people making a great profeſſion in duty, they have pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>be ſied in the Lords name; Nay, that which is more, in his name have caſt out divels, theſe people a man would think
+<pb facs="tcp:31686:11"/>ſhould be in high labour with God, they had done wonderful works too: I pray you conſider of it theſe were for from vain per<g ref="char:EOLhyphen"/>ſons that could propheſie, caſt out devils, and by wonderful works, and yet ſall ſhort of heaven, yea verily, <hi>verſ. 23.</hi> and then will I prof<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs unto them, I never knew you, <hi>Depart from ye workers of iniquity.</hi> Ah! poor ſouls, that are running the haz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd of your upon deſtruction. Conſider this, if theſe men that have thus outwardly pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt Chriſt, by propheſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g in his name, &amp; caſt<g ref="char:EOLhyphen"/>ing out of Devils, and doing wonderful works ſhall be ſhut out of heaven, what will become of you that have done none of theſe things. Again, what do you think by as ſuch as are deſpiſers of Gods People Scof<g ref="char:EOLhyphen"/>fers, and Scorners of them that profeſs Religion, and the ways of godlineſs; Be<g ref="char:EOLhyphen"/>loved, all manner of wickedneſſe is vanity and nothing, wicked perſons are vain perſons they ſay, as in <hi>Pſalm 12.4. We have ſaid with our tongues we will prevail, our lips are our own who is Lord over us, the Prophet David was hear complaining, v. 2. Saith he, they ſpeak vanity every man to his neighbour, with flattering l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ps and with a double heart, do they ſpeak well, ſaith he, verſe 3. the Lord will cut off all flattering lips, and the tongue that ſpeaketh proud
+<pb facs="tcp:31686:12"/>things:</hi> Sirs, you ſée here the palpable wir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>edineſs of vain perſons, therefore he perſwaded ſo look ſo pant companions, As for the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. Fanſſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>valſt perſons <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cious, mor<g ref="char:EOLhyphen"/>tal woudly many th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſelf righteous men, you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no good nor inward comfort by them; Becauſe they want that one thing u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dful there is one thing lacking, &amp; that is their following of Chriſt, and paſting with the world; the young man in the Go<g ref="char:EOLhyphen"/>ſpel was Morra<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> righteous, he had kept the commandemeni<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Law, yet one<g ref="char:EOLhyphen"/>thing was lacking, <hi>Go, ſell all that thou haſt and follow me and thou ſhalt have crea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e in heaven.</hi> Beloved, a man may be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> careful in obſerding his duties, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the commandments of God, and pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> have In<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge poſſeſſions of the world in his heart, he may be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ned to many ſuper<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> worldly <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>onts, be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have his he gre<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> upon the treaſures in the world, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Pleaſures of the world, many a <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> maken profeſſion, and yet the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the world draws away his heart, of the Pleaſures of the world draw <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> off, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> becomes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain: we read <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> buſie-avaine the world, into <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thing the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when as Mary <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, word the aking in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>Mary, there <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>one thing
+<pb facs="tcp:31686:12"/>needful, &amp; Mary had choſen the better part.</hi>
+            </p>
+            <p>Thirdly, The third rank is unſound pro<g ref="char:EOLhyphen"/>feſſors of Chriſt, theſe are as dangerous as the firſt, nay mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>da<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> is in falſe profeſſors of Chriſt, a man may as well ne<g ref="char:EOLhyphen"/>ver profeſs Chriſt at all as profeſs him in an e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>onias may the Papiſt thoſe Paſs mon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers that profeſs Chriſt under a notion of I<g ref="char:EOLhyphen"/>mage worſhip, &amp; mens <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raditions, &amp; inden<g ref="char:EOLhyphen"/>tions of men cenſe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Darers of Popes, and Cardi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olls; and as they ſay the Auri<g ref="char:EOLhyphen"/>quitie of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Rome, whom they firm to be the Mat <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Church of the World, and the Pope the head thereof, declaring him to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Peters Succeſſor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and to fit in Peters their whoſe Declaration is falſe, and their Religion pernicious, and the Pope himſelf an Im<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Antechriſt of the Wor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of y<hi rend="sup">t</hi> danger of them but <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fined to keep in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Soſinians,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will not alow the Deſep of Chriſt, prede thrée ſub<g ref="char:EOLhyphen"/>ſtances in the God heart, whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is falſe and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Script <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there is a ſub<g ref="char:EOLhyphen"/>ſtance of the Father<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> making man at the firſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his own. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that be not ſuff<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> to prove the ſubſtance of a perſon, Chriſt is called, <hi>Heb. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> the expreſt Image of his Fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers perſon Secondly, Chriſt his ſelf come down from his Fathers hoſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e,
+<pb facs="tcp:31686:13"/>took upon him the ſimilitude of man and dyed yi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lded his body to the ſmiters; ſurs<g ref="char:EOLhyphen"/>ly here was the ſimilitude of a perſon in C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſt, who had a humane body given unto him. Thirdly, the Holy Ghoſt He then af<g ref="char:EOLhyphen"/>firm not to be a perſon: if that perticle (He) be not ſufficient to prove him a perſon in the Deity; where Chriſt ſaith <hi>(He) ſhall tell you all things,</hi> yet there is a bodily ſhape put upon him when Itſus was bap<g ref="char:EOLhyphen"/>tized by <hi>John in Jordan,</hi> in the <hi>3. of Luke,</hi> it is ſaid, the Holy Ghoſt deſcended upon him like a Dove, there was a bodily ſhape, to prove this undenyable truth; and then the <hi>Arminians</hi> that hold Frée, will, and ge<g ref="char:EOLhyphen"/>neral Redemption, as if perſons had power within themſelves, of themſelves to ſtand or to fall at their own will and plea<g ref="char:EOLhyphen"/>ſure; Theſe-company beloved are very dangerous to comply with for the avoyd<g ref="char:EOLhyphen"/>ing of which, take this word of exhortation, if it be ſo that poverty attende<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vain com<g ref="char:EOLhyphen"/>pany, then <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee vain company &amp; the compa<g ref="char:EOLhyphen"/>ny of vain perſons, &amp; that you may thus do.</p>
+            <p>Firſt, Conſider the diſcredit that is at<g ref="char:EOLhyphen"/>tained by vain company, it is a diſgrace to be found complying with vain perſons <hi>Pro. 28 7. Whoſo keepeth the Law, is a wiſe ſon, but he that is a companion of riotous men, ſnameth his Father, Prov. 13.5. a wicked man
+<pb facs="tcp:31686:13"/>is loathſom and cometh to ſhame,</hi> Secondly, Conſider the great waſt you come by, by following vain perſons, whoſe ſociety many times waſteth your outward ſubſtance, <hi>Prov. 29.3. Whoſo loveth wiſdom, rejoyceth his Father, but he that keepeth company with Harlots ſpendeth his ſubſtance:</hi> the Prodigal in the Goſpel waſted his ſub<g ref="char:EOLhyphen"/>ſtance after this manner. <hi>Luk. 15.13.</hi> Thirdly, Conſider the advice that is given you by the holy Scriptures, the Apoſtles &amp; followers of Chriſt, exhort you to fly had company, <hi>1 Cor. 5.9. I wrote unto you in an Epiſtle, not to company with fornicators, ver. 10. Yet not altogether with fornicators of this world, nor with coverous not extor<g ref="char:EOLhyphen"/>tioners, for then muſt you needs go out of the world, but now have I writ unto you ver. 11. not to keep company, if any man that is cal<g ref="char:EOLhyphen"/>led a brother be a fornicator or covetous, or an idolater, or a railer, or a drunkard, or an extortioner, with ſuch a one do not ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Fourthly, Conſider that ſuch companions are reſerved for deſtruction, &amp; ſhall be thruſt out of heaven without repentance, <hi>Rev. 21.8</hi> The fearful and unbeleiving, the a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omina<g ref="char:EOLhyphen"/>ble and murtherers, and whore mongens, &amp; &amp; forcerers, &amp; idoliters &amp; all Ipers, ſhall have their portion in the lake which burns with fire and brimſtour now beloved, if you ask
+<pb facs="tcp:31686:14" rendition="simple:additions"/>what you may do to avoid the evil, take theſe helps along with you.</p>
+            <p n="1">1. Eye your company, watch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> your ſelves, while you enjoy the preſen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of your Companians, and cry them vp the Word of God in their diſcourſes, for with the holy thou ſhalt be holy, and with the prophane, thou ſhalt learn prophaneneſs, <hi>2 Theſ. 3.14 If any man obey not our word by this Epi<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e note that man, and have no company with him, that he may be aſhamed. 2.</hi> Get into the company of all thoſe that fear God &amp; kéep his commandements, <hi>Pſalm 119.63. I am a Companion of all thoſe that fear and keep thy precepts. 3.</hi> Set your delight on ſuch as fear God really, let your ſoul delight in them, <hi>Pſa. 16.2, 3.</hi> O my ſoul, thou haſt ſaid unto the Lord, thou art my Lord: my good<g ref="char:EOLhyphen"/>neſs extendeth not to thée: but to the Saints that are in the earth, &amp; to the excellent its whom is all my delight.</p>
+            <p>
+               <hi>Dearly beloved in our Lord and Saviour Jeſus Chriſt, conſider of theſe things, you have heard what evil attends vain company &amp; the Lord of his infinite mercy and goodneſs, in Jeſus Chriſt the great Shepherd and Biſhop of our ſou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, ſet it home upon your hearts, to whom be praiſe and dominion for ever and ever, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <gap reason="intruder" extent="12 pages">
+               <desc>〈12 pages inserted from a different book〉</desc>
+            </gap>
+            <pb facs="tcp:31686:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
